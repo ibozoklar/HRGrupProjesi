@@ -10,6 +10,8 @@ public class Main {
 
         System.out.println("hilal");
         System.out.println("Jandarma Genel Komutanligi");
+        System.out.println("ihsan deneme");
+        System.out.println("ihsan deneme2");
 
         System.out.println("ekleme yapıldı");
 
