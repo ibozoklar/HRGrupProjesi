@@ -10,6 +10,7 @@ public class Main {
         System.out.println(84573086);
         System.out.println("Jandarma Genel Komutanligi");
         System.out.println("ihsan deneme");
+        System.out.println("ihsan deneme2");
 
 
 
