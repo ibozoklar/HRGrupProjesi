@@ -14,6 +14,7 @@ public class Main {
         System.out.println("ihsan deneme2");
 
         System.out.println("ekleme yapıldı");
+        int a;
 
 
 
