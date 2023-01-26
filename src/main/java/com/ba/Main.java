@@ -8,6 +8,8 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("ihsan");
         System.out.println(84573086);
+        System.out.println("Jandarma Genel Komutanligi");
+
 
 
     }
