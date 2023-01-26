@@ -12,6 +12,7 @@ public class Main {
         System.out.println("Jandarma Genel Komutanligi");
 
         System.out.println("ekleme yapıldı");
+        int a;
 
 
 
